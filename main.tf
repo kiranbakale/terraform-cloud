@@ -24,7 +24,7 @@ resource "aws_instance" "provisionerinstance" {
 
   
   tags = {
-    Name = "terraform-cloud-test-instance"
+    Name = "terraform-cloud-test-instance1"
   }
 
 
